@@ -27,7 +27,7 @@ Underbridge_alt was packaged on a different system. Might help if you run into p
 
 - Install Python 3.9 if not already, 3.10 seems to cause problems.
 - install mido :  `pip install mido`
-- install rt-midi: `pip isntall rt-midi`
+- install rt-midi: `pip install rtmidi`
 - install pipwin: `pip install pipwin`
 - install pyaudio `pipwin install pyaudio`
 
